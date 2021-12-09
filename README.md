@@ -1,8 +1,8 @@
 # GooseVisions - Professional Website
 
-[Visit website](ryyrey)
+[Visit website](https://thegreatgooose.github.io/goosevisions-wt-00011111/)
 
-[Github Page](sfhfshfh)
+[Github Page](https://github.com/TheGreatGooose/goosevisions-wt-00011111)
 
 Website presentation and portfolio of the IT solutions development company
 
